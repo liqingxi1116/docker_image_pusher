@@ -7,3 +7,4 @@ alpine
 bitnami/etcd
 redis
 mongo
+public.ecr.aws/zinclabs/openobserve:v0.10.0-amd64
