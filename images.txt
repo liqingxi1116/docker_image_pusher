@@ -5,3 +5,5 @@ portainer/portainer
 nats
 alpine
 bitnami/etcd
+redis
+mongo
