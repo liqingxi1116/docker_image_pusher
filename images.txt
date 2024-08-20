@@ -1,3 +1,7 @@
 nginx
 golang:1.22.1-alpine
 rabbitmq:3.12.14-management
+portainer/portainer
+nats
+alpine
+bitnami/etcd
