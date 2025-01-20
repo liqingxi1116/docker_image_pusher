@@ -7,9 +7,7 @@ alpine
 bitnami/etcd
 redis
 mongo
-public.ecr.aws/zinclabs/openobserve:v0.10.0-amd64
-public.ecr.aws/zinclabs/openobserve:v0.10.9-amd64
-public.ecr.aws/zinclabs/openobserve:v0.11.0-amd64
+public.ecr.aws/zinclabs/openobserve:v0.14.2-amd64
 docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 docker.elastic.co/kibana/kibana:8.13.4
 bitnami/postgresql:16.4.0
