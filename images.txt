@@ -16,3 +16,4 @@ mysql:8.4
 mysql:5.7
 golang:1.24
 rancher/rancher:latest
+rancher/rancher:stable
