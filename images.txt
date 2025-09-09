@@ -13,8 +13,5 @@ docker.elastic.co/kibana/kibana:8.13.4
 bitnami/postgresql:16.4.0
 yandex/clickhouse-server:21.3.20.1
 mysql:8.4
-mysql:5.7
 golang:1.24
-rancher/rancher:latest
-rancher/rancher:stable
-kicbase:v0.0.47
+
