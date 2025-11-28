@@ -5,7 +5,6 @@ portainer/portainer
 nats
 alpine
 bitnami/etcd
-redis:8.4.0-alpine
 postgres:18.1-alpine
 mongo
 openobserve/openobserve:v0.15.1
