@@ -4,10 +4,10 @@ rabbitmq:3.12.14-management
 portainer/portainer
 nats
 alpine
-bitnami/etcd
+redis:8.4.0-alpine
 postgres:18.1-alpine
 mongo
-openobserve/openobserve:v0.15.1
+public.ecr.aws/zinclabs/openobserve-enterprise:v0.16.3-amd64
 docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 docker.elastic.co/kibana/kibana:8.13.4
 yandex/clickhouse-server:21.3.20.1
