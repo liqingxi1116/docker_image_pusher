@@ -5,12 +5,12 @@ portainer/portainer
 nats
 alpine
 bitnami/etcd
-redis:8.0.3
+redis:8.4.0-alpine
+postgres:18.1-alpine
 mongo
 openobserve/openobserve:v0.15.1
 docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 docker.elastic.co/kibana/kibana:8.13.4
-bitnami/postgresql:16.4.0
 yandex/clickhouse-server:21.3.20.1
 mysql:8.4
 golang:1.24
