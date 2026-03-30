@@ -1,9 +1,9 @@
 nginx
-golang:1.22.6-alpine
+golang:1.26.1-apline
+alpine:latest
 rabbitmq:3.12.14-management
 portainer/portainer
 nats
-alpine
 redis:8.4.0-alpine
 postgres:18.1-alpine
 mongo
@@ -12,6 +12,4 @@ docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 docker.elastic.co/kibana/kibana:8.13.4
 yandex/clickhouse-server:21.3.20.1
 mysql:8.4
-golang:1.26.1-apline
-alpine:latest
 
