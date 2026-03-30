@@ -1,5 +1,5 @@
 nginx
-golang:1.26.1-apline
+golang:1.26.1-alpine
 alpine:latest
 rabbitmq:3.12.14-management
 portainer/portainer
