@@ -1,5 +1,6 @@
 nginx
 golang:1.26.1-alpine
+golang:1.26.1
 alpine:latest
 rabbitmq:3.12.14-management
 portainer/portainer
