@@ -1,4 +1,5 @@
 nginx
+node:25.9
 golang:1.26.1-alpine
 golang:1.26.1
 alpine:latest
