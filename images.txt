@@ -2,7 +2,7 @@ nginx
 node:25.9
 golang:1.26.1-alpine
 golang:1.26.1
-alpine:latest
+alpine:3.23.3
 rabbitmq:3.12.14-management
 portainer/portainer
 nats
