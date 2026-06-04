@@ -1,3 +1,5 @@
+eipwork/metrics-server:v0.7.2
+eipwork/metrics-scraper:v1.2.2
 nginx
 redis:8.4.0
 python:3.11-slim
