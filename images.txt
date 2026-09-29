@@ -1,5 +1,6 @@
 nginx
 redis:8.4.0
+node:22-alpine
 python:3.11-slim
 nginx:1.27-alpine
 node:20-alpine
